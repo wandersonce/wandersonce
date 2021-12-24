@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: wandersoncastro@wandersonoc.com
+- 📫 How to reach me: wanderson.o.castro@gmail.com
 - 😄 My personal Web page: <a href="https://www.wandersonoc.com">Here! </a>
 
 <b> Languages and Tools: </b><br>
