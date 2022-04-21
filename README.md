@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-- 📫 How to reach me: wanderson.o.castro@gmail.com
 - 😄 My personal Web page: <a href="https://www.wandersonoc.com">Here! </a>
+-->
+- 🔭 I’m currently working as Frontend Developer
+- - 🌱 I’m currently learning React/React Native
+- 📫 How to reach me: wanderson.o.castro@gmail.com
+
 
 <b> Languages and Tools: </b><br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width="2%"/>
